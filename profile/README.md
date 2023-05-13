@@ -9,7 +9,7 @@ Welcome to the GDPS Hub Team GitHub organization, here you can find some open so
 # Table of contents
 
 - [Acknowledgement](#acknowledgement)
-- [Credit](#installation)
+- [Credit](#credit)
 - [Contact](#contact)
 
 
