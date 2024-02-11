@@ -1,6 +1,6 @@
 # GDPS Hub
 
-Welcome to the GDPS Hub Team GitHub organization, here you can find some open source code from our products, that we've been developing for the past 2 years. We may not publish everything, but for sure there's something here to sneak 👀.
+Welcome to the GDPS Hub Team GitHub organization, here you can find some open source code from our products, that we've been developing for the past 3 years. We may not publish everything, but for sure there's something here to sneak 👀.
 
  ![image](https://gdpshub.com/assets/brand-assets/banner-3.png)
 
